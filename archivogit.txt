@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Archivo a agregar en el Satagging Area. DIEGO DIEGO
+=======
+Archivo a agregar en el Satagging Area.
+mensaje de prueba para realizar el merge con el branch master
+>>>>>>> primerrama
